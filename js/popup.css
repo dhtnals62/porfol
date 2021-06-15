@@ -1,0 +1,132 @@
+#pop_up {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            left: 0;
+            top: 0;
+            background: rgba(0, 0, 0, 0.6);
+            z-index: 99;
+            display: none;
+        }
+
+        /*뒷 배경*/
+        #pop_up .img {
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            text-align: center;
+        }
+
+        #pop_up .img img {
+            display: block;
+            padding: 20px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        #pop_up .btn {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        #pop_up .btn button {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 6px;
+            background: #009688;
+            color: white;
+        }
+
+        .modal {
+            display: block;
+            margin-top: 20px;
+            margin-bottom: 50px;
+        }
+
+
+        #pop_up1 {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: rgba(0, 0, 0, 0.6);
+            z-index: 99;
+            display: none;
+        }
+
+        /*뒷 배경*/
+        #pop_up2 {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: rgba(0, 0, 255, 0.6);
+            z-index: 99;
+            display: none;
+        }
+
+        #pop_up3 {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: rgba(255, 0, 0, 0.6);
+            z-index: 99;
+            display: none;
+        }
+        #pop_up4 {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background: rgba(255, 255, 0, 0.6);
+            z-index: 99;
+            display: none;
+        }
+
+        /*뒷 배경*/
+
+        .pop .img {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            text-align: center;
+        }
+
+        .pop .img img {
+            display: block;
+            padding: 20px;
+        }
+
+        button {
+            cursor: pointer;
+        }
+
+        .btn {
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .btn button {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 6px;
+            background: #009688;
+            color: white;
+        }
+
+
+        .select_btn {
+            background-color: orange
+        }
+  
