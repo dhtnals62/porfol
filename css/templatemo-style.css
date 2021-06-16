@@ -1147,7 +1147,7 @@ textarea.form-control {
             transform: translate(-50%, -50%);
             background: white;
             text-align: center;
-    width: 650px; height: 840px; border-radius: 10px
+    width: 750px; height: 840px; border-radius: 10px
         }
 .img07{
             position: absolute;
@@ -1301,8 +1301,8 @@ textarea.form-control {
 .color02:after{clear: both; content: ""; display: block}
 .color03:after{clear: both; content: ""; display: block}
 
-.img06_1{overflow: hidden; overflow-y: scroll; width: 615px; height: 600px; margin: 30px auto}
-.img06_2{background-image: url(../images/%EC%BF%A0%ED%8F%B0.jpg); background-repeat: no-repeat; background-size: 100%; width: 600px; height: 780px }
+.img06_1{overflow: hidden; overflow-y: scroll; width: 700px; height: 600px; margin: 30px auto; border: 1px solid #e1e1e1}
+.img06_2{background-image: url(../images/%EC%98%A4%EC%88%98%EB%AF%BC.jpg); background-repeat: no-repeat; background-size: 100%; width: 700px; height: 2300px }
 .img07_1{overflow: hidden; overflow-y: scroll; width: 615px; height: 600px; margin: 30px auto}
 .img07_2{background-image: url(../images/Artboard%201.png); background-repeat: no-repeat; background-size: 100%; width: 600px; height: 850px}
 
