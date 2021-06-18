@@ -1314,3 +1314,11 @@ textarea.form-control {
 .card_05{background-image: url(../images/%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%20%ED%94%84%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80_04.jpg); background-repeat: no-repeat; background-size: 100%; width: 600px; height: 600px}
 .card_06{background-image: url(../images/%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%20%ED%94%84%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80_%EB%81%9D.jpg); background-repeat: no-repeat; background-size: 100%; width: 600px; height: 600px}
 
+@media(max-width:1880px)
+{
+    .portfolio-item .thumb-inner02{width: 67.8%; margin-left: 50.5px}
+}
+@media(max-width:1800px)
+{
+    .portfolio-item .thumb-inner02{width: 79.5%; margin-left: 28px}
+}
